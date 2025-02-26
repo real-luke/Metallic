@@ -6,9 +6,9 @@
 </div>
 
 <p align="center">
-<a href="https://glitch.com/edit/#!/import/github/cognetwork-dev/Metallic"><img height="30px" src="https://raw.githubusercontent.com/FogNetwork/Tsunami/main/deploy/glitch2.svg"><img></a>
-<a href="https://railway.app/new/template?template=https://github.com/cognetwork-dev/Metallic"><img height="30px" src="https://raw.githubusercontent.com/FogNetwork/Tsunami/main/deploy/railway2.svg"><img></a>
-<a href="https://app.koyeb.com/deploy?type=git&repository=github.com/cognetwork-dev/Metallic&branch=main&name=Metallic"><img height="30px" src="https://raw.githubusercontent.com/FogNetwork/Tsunami/main/deploy/koyeb2.svg"><img></a>
+<a href="https://glitch.com/edit/#!/import/github/real-luke/Metallic"><img height="30px" src="https://raw.githubusercontent.com/FogNetwork/Tsunami/main/deploy/glitch2.svg"><img></a>
+<a href="https://railway.app/new/template?template=https://github.com/real-luke/Metallic"><img height="30px" src="https://raw.githubusercontent.com/FogNetwork/Tsunami/main/deploy/railway2.svg"><img></a>
+<a href="https://app.koyeb.com/deploy?type=git&repository=github.com/real-luke/Metallic&branch=main&name=metallic"><img height="30px" src="https://raw.githubusercontent.com/FogNetwork/Tsunami/main/deploy/koyeb2.svg"><img></a>
 </p>
 
 ## Features
